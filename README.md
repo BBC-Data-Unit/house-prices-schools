@@ -1,5 +1,7 @@
 # Best schools add £18,600 to average house price
 
+![](https://raw.githubusercontent.com/BBC-Data-Unit/house-prices-schools/master/How%20much%20houses%20cost%20near%20the%20best%20schools.png)
+
 In March 2017 we [reported](http://www.bbc.co.uk/news/uk-england-39327149) on a study by the Department for Education (DfE) which found prices are 8% higher near the best-performing primary schools and 6.8% higher near the best secondary schools.
 
 Recent analysis by Teach First found 43% of pupils at England's outstanding secondary schools were from the wealthiest 20% of families, while a separate study by the Sutton Trust suggested poorer children were much less likely to get places at the schools with the best GCSE results.
@@ -10,4 +12,4 @@ Recent analysis by Teach First found 43% of pupils at England's outstanding seco
 
 ## Visualisation
 
-* Multiple bar chart: How much houses cost near the best schools, by region
+* Multiple bar chart: How much houses cost near the best schools, by region (shown above)
